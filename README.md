@@ -14,9 +14,9 @@ Matrix concept is geimplenteerd in Matrix.hpp als een template class. De overige
 2. Sleep alle betanden in de file explorer.
 3. Installeer boost 1.65.1 
 4. Link boost zoals de onderstaande afbeeldingen:
-![Afb2](Afb1.png?raw=true "Include 1")
-![Afb3](Afb1.png?raw=true "Include 2")
-![Afb4](Afb1.png?raw=true "Include 3")
+![Afb2](Afb2.png?raw=true "Include 1")
+![Afb3](Afb3.png?raw=true "Include 2")
+![Afb4](Afb4.png?raw=true "Include 3")
 
 5. Build je project en run het :).
 
